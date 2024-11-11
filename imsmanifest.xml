@@ -1,0 +1,143 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<manifest identifier="_6V3yUxINwu8_course_id" version="1.0" xmlns="http://www.imsproject.org/xsd/imscp_rootv1p1p2" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsproject.org/xsd/imscp_rootv1p1p2 imscp_rootv1p1p2.xsd http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd http://www.adlnet.org/xsd/adlcp_rootv1p2 adlcp_rootv1p2.xsd">
+  <metadata>
+    <schema>ADL SCORM</schema>
+    <schemaversion>1.2</schemaversion>
+    <lom xmlns="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd">
+      <general>
+        <title>
+          <langstring xml:lang="x-none">Osmosis IGCSE Part I</langstring>
+        </title>
+      </general>
+      <lifecycle>
+        <version>
+          <langstring xml:lang="x-none">1</langstring>
+        </version>
+        <status>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">Final</langstring>
+          </value>
+        </status>
+      </lifecycle>
+      <metametadata>
+        <metadatascheme>ADL SCORM 1.2</metadatascheme>
+      </metametadata>
+      <educational>
+        <typicallearningtime>
+          <datetime>PT0H0M0S</datetime>
+        </typicallearningtime>
+      </educational>
+      <rights>
+        <cost>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </cost>
+        <copyrightandotherrestrictions>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </copyrightandotherrestrictions>
+      </rights>
+    </lom>
+  </metadata>
+  <organizations default="Osmosis_IGCSE_Part_I_ORG">
+    <organization identifier="Osmosis_IGCSE_Part_I_ORG">
+      <title>Osmosis IGCSE Part I</title>
+      <item identifier="Infectious_DiseaseMalaria_SCO" isvisible="true" identifierref="__6V3yUxINwu8_course_id_RES">
+        <title>Osmosis IGCSE Part I</title>
+        <adlcp:masteryscore>80</adlcp:masteryscore>
+      </item>
+    </organization>
+  </organizations>
+  <resources>
+    <resource identifier="__6V3yUxINwu8_course_id_RES" type="webcontent" href="launcher.html" adlcp:scormtype="sco">
+      <file href="story_content/thumbnail.jpg" />
+      <file href="mobile/6e0qqZV2j1c.png" />
+      <file href="mobile/6GkFXqKMmu5_FFFFFF_80.png" />
+      <file href="story_content/WebObjects/6Jnmy7p21fJ/Osmosis defintion1.htm.html" />
+      <file href="mobile/6Jnmy7p21fJ5lfAv0NPGSz{Width=686, Height=508}Light.png" />
+      <file href="mobile/6Go4CESNwDy_P_511_124_473_450.png" />
+      <file href="mobile/6Q7yHlhT6OS.png" />
+      <file href="story_content/video_5oLf90SCQ2n_22_48_720x406.mp4" />
+      <file href="mobile/poster_5wm4MhntJgA_video_5oLf90SCQ2n_22_48_720x406.jpg" />
+      <file href="mobile/60UttY1ukS3_80_P_128_92_981_661.jpg" />
+      <file href="mobile/5mxuG7WRHIN_M_1312_1312_P_0_101_1035_595.png" />
+      <file href="mobile/5mxuG7WRHIN_M_1312_1312.png" />
+      <file href="mobile/5oo6MCINhUC_80_P_256_796_1024_213.jpg" />
+      <file href="mobile/5ZcXoIS3rJk_80_P_14_23_509_534.jpg" />
+      <file href="mobile/5ZcXoIS3rJk_80_P_25_23_498_534.jpg" />
+      <file href="story_content/video_5rTldI2MgIl_22_48_720x406.mp4" />
+      <file href="mobile/poster_6SLx6vzFvMK_video_5rTldI2MgIl_22_48_720x406.jpg" />
+      <file href="story_content/video_63SEau71KLt_22_48_720x406.mp4" />
+      <file href="mobile/poster_5z3OjmJCJKh_video_63SEau71KLt_22_48_720x406.jpg" />
+      <file href="mobile/5clYPd2KzRv_80_P_0_0_300_278.jpg" />
+      <file href="mobile/6M9oOt9FUi8_80.jpg" />
+      <file href="mobile/6RCJmt2kNDr_80_P_0_74_538_573.jpg" />
+      <file href="mobile/6jDeSxkAJ2M_P_0_0_786_978.png" />
+      <file href="meta.xml" />
+      <file href="story_content/triggers.js" />
+      <file href="story_content/user.js" />
+      <file href="html5/data/css/output.min.css" />
+      <file href="html5/data/js/5auXcxLKAaq.js" />
+      <file href="html5/data/js/5dmBKhV1NWD.js" />
+      <file href="html5/data/js/5hHMJX3HEip.js" />
+      <file href="html5/data/js/5keDaQXbz7z.js" />
+      <file href="html5/data/js/5pF8DILNXRn.js" />
+      <file href="html5/data/js/5tmXSGJqQls.js" />
+      <file href="html5/data/js/5VGhPNnkZHM.js" />
+      <file href="html5/data/js/5x1X3zuWxtW.js" />
+      <file href="html5/data/js/5Y1cc4kIFtY.js" />
+      <file href="html5/data/js/632eVoadQvw.js" />
+      <file href="html5/data/js/63CBmaUOOyy.js" />
+      <file href="html5/data/js/64kqVcGqVFk.js" />
+      <file href="html5/data/js/6bWirpeaoEU.js" />
+      <file href="html5/data/js/6CH5NpIjKhi.js" />
+      <file href="html5/data/js/6chjuqOIYsU.js" />
+      <file href="html5/data/js/6ElUda0ZDTQ.js" />
+      <file href="html5/data/js/6fWFEFlcJmy.js" />
+      <file href="html5/data/js/6jciiatAJD5.js" />
+      <file href="html5/data/js/6kvbzc4QCoy.js" />
+      <file href="html5/data/js/6l0ORPWMWkw.js" />
+      <file href="html5/data/js/6L3ewNtNcsk.js" />
+      <file href="html5/data/js/6l3MDsCfhYQ.js" />
+      <file href="html5/data/js/6lYJDcP6BGV.js" />
+      <file href="html5/data/js/6msPD4dyD9I.js" />
+      <file href="html5/data/js/6On2Vr4QaZO.js" />
+      <file href="html5/data/js/6QC8r5jT6Da.js" />
+      <file href="html5/data/js/6XzNXLHTqDS.js" />
+      <file href="html5/data/js/6YqEuxdUfuG.js" />
+      <file href="html5/data/js/data.js" />
+      <file href="html5/data/js/frame.js" />
+      <file href="html5/data/js/paths.js" />
+      <file href="html5/lib/scripts/bootstrapper.min.js" />
+      <file href="html5/lib/scripts/frame.desktop.min.js" />
+      <file href="html5/lib/scripts/frame.mobile.min.js" />
+      <file href="html5/lib/scripts/slides.min.js" />
+      <file href="html5/lib/stylesheets/desktop.min.css" />
+      <file href="html5/lib/stylesheets/mobile.min.css" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-bold.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-light.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-regular.woff" />
+      <file href="analytics-frame.html" />
+      <file href="story.html" />
+      <file href="launcher.html" />
+      <file href="story_content/external_window.png" />
+      <file href="index_lms.html" />
+      <file href="lms/AICCComm.html" />
+      <file href="lms/blank.html" />
+      <file href="lms/browsersniff.js" />
+      <file href="lms/goodbye.html" />
+      <file href="lms/scormdriver.js" />
+    </resource>
+  </resources>
+</manifest>
